@@ -1,2 +1,3 @@
 # Countdown-Timer
-Testing out my code for this countdown timer
+
+Simple countdown timer created using HTML, CSS, and vanilla JavaScript.
